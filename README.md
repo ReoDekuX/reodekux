@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Giovanni Rodrigues Vieira  
 
 
-👋 Olá! Me chamo **Giovanni Rodrigues Vieira **, tenho 20 anos e .  
+👋 Olá! Me chamo **Giovanni Rodrigues Vieira **.  
 
 
  
