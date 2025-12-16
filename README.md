@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Giovanni Rodrigues Vieira  
 
 
-👋 Olá! Me chamo **Giovanni Rodrigues Vieira **, tenho 20 anos e sou natural de São Paulo.  
+👋 Olá! Me chamo **Giovanni Rodrigues Vieira **, tenho 20 anos e .  
 
 
  
@@ -37,12 +37,20 @@
 <div><br />
 
 ---
+## &nbsp;Minha Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai&theme=dark" />
+
+
+---
 
 ### 🌍 Onde me encontrar  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-barbosa-17898b2aa/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-rodrigues-vieira-60088b294/)  
 
 
 </div>
