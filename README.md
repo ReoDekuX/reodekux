@@ -1,9 +1,9 @@
 ## 👩🏻‍💻 Giovanni Rodrigues Vieira  
 
 
-👋 Olá! Me chamo **Giovanni Rodrigues Vieira **,Sou surdo e usuário de cadeira de rodas.
+👋 Olá! Me chamo **Giovanni Rodrigues Vieira**,Sou surdo e usuário de cadeira de rodas.
 Sou iniciante na área de tecnologia, com grande interesse em desenvolvimento e inovação.
-Utilizo este GitHub para documentar minha evolução, compartilhar estudos e apresentar projetos práticos..  
+Utilizo este GitHub para documentar minha evolução, compartilhar estudos e apresentar projetos práticos.
 
 
  
